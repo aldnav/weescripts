@@ -1,2 +1,4 @@
+SNAPS_DIR=$HOME/Pictures/snaps
+ENV_PY=path/to/python/
 # m h dom mon dow command
-*/10   *  *   *   *   SNAPS_DIR=$HOME/Pictures/snaps path/to/python/ path/to/job.sh
+*/10   *  *   *   *   ENV_PY path/to/job.sh
